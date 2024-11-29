@@ -5,5 +5,5 @@ Status:
 
 1. Video Scraping program (Videos from Youtube) - Done
 
- a. NEED TO control resolution of video downloaded <b>
+ a. NEED TO control resolution of video downloaded <br>
  b. NEED TO store videos in cloud (OPTIONAL). MUST if local storage gets exhausted 
